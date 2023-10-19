@@ -575,7 +575,7 @@
 
 "@types/netlify-identity-widget@^1.9.4":
   version "1.9.4"
-  resolved "https://registry.yarnpkg.com/@types/netlify-identity-widget/-/netlify-identity-widget-1.9.4.tgz#8ed177c762ed615fdb6c242bdd54eac5b75d0ac7"
+  resolved "https://registry.npmjs.org/@types/netlify-identity-widget/-/netlify-identity-widget-1.9.4.tgz"
   integrity sha512-W8eZJoO55Jm45LG+zSnalyF4NbWOOXn4HhQe9FhFMHjMEAdyAf/ffzh94ornsKxj2BiPIospuznBAVBUmPfeLA==
 
 "@types/node@^18.11.17":
@@ -2227,7 +2227,7 @@ natural-compare@^1.4.0:
 
 netlify-identity-widget@^1.9.2:
   version "1.9.2"
-  resolved "https://registry.yarnpkg.com/netlify-identity-widget/-/netlify-identity-widget-1.9.2.tgz#4339c9155fc4c2570ae3ddd61825d952b574b02e"
+  resolved "https://registry.npmjs.org/netlify-identity-widget/-/netlify-identity-widget-1.9.2.tgz"
   integrity sha512-IbS1JHhs7BflCCvp3C9f6tmNSZqbyBhZ4Gs5+Qxt4IlPybTOVv0PqJ4TAsA7uxh1R+oXOAmk0OOMAkEaPYeCtA==
 
 next@^13.4.13:
